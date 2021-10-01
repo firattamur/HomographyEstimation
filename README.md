@@ -9,10 +9,10 @@
 <img src="https://img.shields.io/badge/Python-3.8-blue" alt="Python: 3.8">
 
 <!-- inprogress or completed -->
-<!-- <img src="https://img.shields.io/badge/-completed-green" alt="completed"> -->
+<img src="https://img.shields.io/badge/-completed-green" alt="completed">
 	
 <!-- inprogress or completed -->
-<img src="https://img.shields.io/badge/-in%20progress-red" alt="in progress">
+<!-- <img src="https://img.shields.io/badge/-in%20progress-red" alt="in progress"> -->
 	
 <!-- licence -->
 <img src="https://img.shields.io/badge/License-MIT-lightgrey.svg" alt="License: MIT">
