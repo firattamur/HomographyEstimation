@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 
-def warp_with_homography(src: np.ndarray, pts_src: np.ndarray, dst_shape: np.ndarray, pts_dst: np.ndarray) -> np.ndarray:
+def warp_with_homography(src: np.ndarray, pts_src: np.ndarray, dst_shape: tuple, pts_dst: np.ndarray) -> np.ndarray:
     """
     Warp src image with calculate Homography matrix from src and dst points.
 
