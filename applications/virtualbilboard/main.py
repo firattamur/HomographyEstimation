@@ -4,10 +4,7 @@ from utils.utils import warp_with_homography, collect_corners, dst_points_with_a
 
 
 if __name__ == "__main__":
-    
-    # import pdb
-    # pdb.set_trace()
-	
+    	
     # file path of source image
     filename_src = './assets/ad-image.jpeg'
 
